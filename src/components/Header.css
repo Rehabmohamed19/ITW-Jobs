@@ -1,0 +1,16 @@
+.logo-font {
+    font-weight: 600;
+}
+
+.overlay-row {
+    padding-left: 30px;
+    border-radius: 15px;
+}
+
+.overlay-container {
+    background-color: white;
+    padding: 10px;
+    position: absolute;
+    top: 121px;
+    left: 70px;
+}
